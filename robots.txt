@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: landingpage.vip
+Sitemap: http://landingpage.vip/sitemap.xml
